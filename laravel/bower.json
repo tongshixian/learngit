@@ -1,0 +1,17 @@
+{
+  "name": "bower.json",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Tongshixian <18365769602@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
